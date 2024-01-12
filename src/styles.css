@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+@import '../node_modules/sanitize.css/sanitize.css';
+@import '../node_modules/sanitize.css/forms.css';
+@import '../node_modules/sanitize.css/typography.css';
+@import '../node_modules/sanitize.css/reduce-motion.css';
+@import '../node_modules/sanitize.css/system-ui.css';
+@import '../node_modules/sanitize.css/ui-monospace.css';
+@import '../node_modules/sanitize.css/assets.css';
+
+:root {
+  --space: clamp(1.25rem, -0.294rem + 6.59vw, 3rem);
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+}

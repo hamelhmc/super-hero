@@ -1,0 +1,63 @@
+<header class="header">
+  <button
+    class="header__button"
+    mat-raised-button
+    color="primary"
+    (click)="openCreate()"
+    type="button">
+    Create
+  </button>
+
+  <mat-form-field class="header__search">
+    <mat-label>Search</mat-label>
+    <mat-icon class="header__search-icon" matPrefix>search</mat-icon>
+    <input type="text" matInput placeholder="Example: Spider-Man" (keyup)="applyFilter($event)" />
+  </mat-form-field>
+</header>
+<main class="container mat-elevation-z1">
+  <div class="loading-shade" *ngIf="isLoadingResults">
+    <mat-spinner></mat-spinner>
+  </div>
+
+  <section class="table-container">
+    <table mat-table [dataSource]="dataSource" matSort>
+      <!-- Columnas -->
+      <ng-container matColumnDef="name">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>Name</th>
+        <td mat-cell *matCellDef="let hero">{{ hero.name }}</td>
+      </ng-container>
+
+      <ng-container matColumnDef="description">
+        <th mat-header-cell *matHeaderCellDef mat-sort-header>Description</th>
+        <td mat-cell *matCellDef="let hero">{{ hero.description }}</td>
+      </ng-container>
+
+      <ng-container matColumnDef="actions">
+        <th mat-header-cell *matHeaderCellDef>Actions</th>
+        <td mat-cell *matCellDef="let hero">
+          <div class="column-actions">
+            <button mat-icon-button color="accent" [routerLink]="['/', hero.id]" type="button">
+              <mat-icon>visibility</mat-icon>
+            </button>
+            <button mat-icon-button color="primary" (click)="openEditHero(hero)" type="button">
+              <mat-icon>edit</mat-icon>
+            </button>
+            <button
+              mat-icon-button
+              color="warn"
+              (click)="openConfirmDeleteHero(hero)"
+              type="button">
+              <mat-icon>delete</mat-icon>
+            </button>
+          </div>
+        </td>
+      </ng-container>
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+    </table>
+  </section>
+
+  <mat-paginator [pageSizeOptions]="[5, 10, 25, 50]" [pageSize]="10" [length]="totalCount">
+  </mat-paginator>
+</main>

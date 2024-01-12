@@ -1,0 +1,39 @@
+<h2 mat-dialog-title>{{ superHero ? 'Edit Superhero' : 'Create Superhero' }}</h2>
+<mat-dialog-content class="mat-typography">
+  <form [formGroup]="form" (submit)="onSubmit()">
+    <mat-form-field>
+      <mat-label>Name</mat-label>
+      <input matInput formControlName="name" placeholder="Name" appUppercase />
+      <mat-error
+        *ngIf="
+          formControls['name'].invalid &&
+          (formControls['name'].dirty || formControls['name'].touched)
+        ">
+        Name is required.
+      </mat-error>
+    </mat-form-field>
+
+    <mat-form-field>
+      <mat-label>Description</mat-label>
+      <textarea matInput formControlName="description" placeholder="Description"></textarea>
+      <mat-error
+        *ngIf="
+          formControls['description'].invalid &&
+          (formControls['description'].dirty || formControls['description'].touched)
+        ">
+        Description is required.
+      </mat-error>
+    </mat-form-field>
+
+    <div class="form-buttons">
+      <button type="button" mat-button color="warn" (click)="closeDialog()">
+        <mat-icon>{{ superHero ? 'close' : 'cancel' }}</mat-icon>
+        {{ superHero ? 'Cancel' : 'Close' }}
+      </button>
+      <button mat-raised-button color="primary" type="submit" [disabled]="form.invalid">
+        <mat-icon>{{ superHero ? 'save' : 'add' }}</mat-icon>
+        {{ superHero ? 'Update' : 'Create' }}
+      </button>
+    </div>
+  </form>
+</mat-dialog-content>

@@ -1,0 +1,22 @@
+version: '3'
+services:
+  angular:
+    build:
+      context: .
+      dockerfile: angular.dockerfile
+    ports:
+      - 4200:4200
+    networks:
+      - mynetwork
+
+  json-server:
+    build:
+      context: .
+      dockerfile: json-server.dockerfile
+    ports:
+      - 3000:3000
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:

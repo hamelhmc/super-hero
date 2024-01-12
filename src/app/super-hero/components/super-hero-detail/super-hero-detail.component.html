@@ -1,0 +1,20 @@
+<mat-card>
+  <mat-card-header>
+    <mat-card-title *ngIf="heroDetail">{{ heroDetail.name }}</mat-card-title>
+    <mat-card-subtitle *ngIf="heroDetail">{{ heroDetail.description }}</mat-card-subtitle>
+  </mat-card-header>
+
+  <mat-card-content>
+    <div class="loading-container" *ngIf="isLoading">
+      <mat-spinner></mat-spinner>
+    </div>
+    <img *ngIf="heroDetail" mat-card-image [src]="heroDetail.image" [alt]="heroDetail.name" />
+  </mat-card-content>
+
+  <mat-card-actions>
+    <button type="button" mat-button color="accent" routerLink="/" routerLinkActive="active">
+      <mat-icon>arrow_back</mat-icon>
+      <span>Back</span>
+    </button>
+  </mat-card-actions>
+</mat-card>

@@ -1,0 +1,935 @@
+{
+  "superheros": [
+    {
+      "name": "3-D Man Edit",
+      "id": 1011334,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/535fecbbb9784.jpg",
+      "updateAt": 1688050297468
+    },
+    {
+      "name": "A-Bomb (HAS)",
+      "id": 1017100,
+      "description": "Rick Jones has been Hulk's best bud since day one, but now he's more than a friend...he's a teammate! Transformed by a Gamma energy explosion, A-Bomb's thick, armored skin is just as strong and powerful as it is blue. And when he curls into action, he uses it like a giant bowling ball of destruction! ",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/20/5232158de5b16.jpg"
+    },
+    {
+      "name": "A.I.M.",
+      "id": 1009144,
+      "description": "AIM is a terrorist organization bent on destroying the world.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52602f21f29ec.jpg"
+    },
+    {
+      "name": "Aaron Stack",
+      "id": 1010699,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Abomination (Emil Blonsky)",
+      "id": 1009146,
+      "description": "Formerly known as Emil Blonsky, a spy of Soviet Yugoslavian origin working for the KGB, the Abomination gained his powers after receiving a dose of gamma radiation similar to that which transformed Bruce Banner into the incredible Hulk.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce18691cbf04.jpg"
+    },
+    {
+      "name": "Abomination (Ultimate)",
+      "id": 1016823,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Absorbing Man",
+      "id": 1009148,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/b0/5269678709fb7.jpg"
+    },
+    {
+      "name": "Abyss",
+      "id": 1009149,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/30/535feab462a64.jpg"
+    },
+    {
+      "name": "Abyss (Age of Apocalypse)",
+      "id": 1010903,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/4c00358ec7548.jpg"
+    },
+    {
+      "name": "Adam Destine",
+      "id": 1011266,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Aegis (Trey Rollins)",
+      "id": 1010846,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/e0/4c0035c9c425d.gif"
+    },
+    {
+      "name": "Aero (Aero)",
+      "id": 1017851,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Agatha Harkness",
+      "id": 1012717,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/a0/4ce5a9bf70e19.jpg"
+    },
+    {
+      "name": "Agent Brand",
+      "id": 1011297,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/60/52695285d6e7e.jpg"
+    },
+    {
+      "name": "Agent X (Nijo)",
+      "id": 1011031,
+      "description": "Originally a partner of the mind-altering assassin Black Swan, Nijo spied on Deadpool as part of the Swan's plan to exact revenge for Deadpool falsely taking credit for the Swan's assassination of the Four Winds crime family, which included Nijo's brother.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Agent Zero",
+      "id": 1009150,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c0042121d790.jpg"
+    },
+    {
+      "name": "Agents of Atlas",
+      "id": 1011198,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/a0/4ce18a834b7f5.jpg"
+    },
+    {
+      "name": "Aginar",
+      "id": 1011175,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Air-Walker (Gabriel Lan)",
+      "id": 1011136,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Ajak",
+      "id": 1011176,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/4c002f35c5215.jpg"
+    },
+    {
+      "name": "Ajaxis",
+      "id": 1010870,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/4c0035adc7d3a.jpg"
+    },
+    {
+      "name": "Akemi",
+      "id": 1011194,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Alain",
+      "id": 1011170,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Albert Cleary",
+      "id": 1009240,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Albion",
+      "id": 1011120,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Alex Power",
+      "id": 1010836,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/4ce5a385a2e82.jpg"
+    },
+    {
+      "name": "Alex Wilder",
+      "id": 1010755,
+      "description": "Despite being the only one of the Runaways without any superhuman abilities or tech, Alex Wilder became the de facto leader of the group due to his natural leadership skills and intellect, as well as prodigy-level logic and strategy.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/c0/4c00377144d5a.jpg"
+    },
+    {
+      "name": "Alexa Mendez",
+      "id": 1011214,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Alexander Pierce",
+      "id": 1009497,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Alice",
+      "id": 1014990,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/4cd061e6d6573.jpg"
+    },
+    {
+      "name": "Alicia Masters",
+      "id": 1009435,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/4c003d40ac7ae.jpg"
+    },
+    {
+      "name": "Alpha Flight",
+      "id": 1010370,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/60/52695277ee088.jpg"
+    },
+    {
+      "name": "Alpha Flight (Ultimate)",
+      "id": 1011324,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Alvin Maker",
+      "id": 1011164,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Amadeus Cho",
+      "id": 1011227,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/520288b9cb581.jpg"
+    },
+    {
+      "name": "Amanda Sefton",
+      "id": 1009567,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Amazoness",
+      "id": 1011382,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "American Eagle (Jason Strongbow)",
+      "id": 1011361,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/80/4ce5a6d8b8f2a.jpg"
+    },
+    {
+      "name": "Amiko",
+      "id": 1009151,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Amora",
+      "id": 1010672,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Amphibian (Earth-712)",
+      "id": 1010673,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Amun",
+      "id": 1010905,
+      "description": "Amun is a ruthless teenage assassin, employed by the Sisterhood of the Wasp to serve under the mage Vincent after Araña interrupted the ritual to initiate the Wasp's new chosen one.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Ancient One",
+      "id": 1009152,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/4ce59ea2103ac.jpg"
+    },
+    {
+      "name": "Ancient One (Ultimate)",
+      "id": 1016824,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Angel (Angel Salvadore)",
+      "id": 1011684,
+      "description": "Driven out of home by her abusive step-father, fourteen-year old Angel Salvadore slept in the woods, where her mutant nature manifested itself in the form of a protective cocoon.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Angel (Thomas Halloway)",
+      "id": 1011396,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/03/531769834b15f.jpg"
+    },
+    {
+      "name": "Angel (Ultimate)",
+      "id": 1011338,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/50/531769ae4399f.jpg"
+    },
+    {
+      "name": "Angel (Warren Worthington III)",
+      "id": 1009153,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Angela (Aldrif Odinsdottir)",
+      "id": 1017574,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/7/00/545a82f59dd73.jpg"
+    },
+    {
+      "name": "Anita Blake",
+      "id": 1010674,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c0038fa14452.jpg"
+    },
+    {
+      "name": "Anne Marie Hoag",
+      "id": 1009346,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Annihilus",
+      "id": 1009154,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/528d31f20a2f6.jpg"
+    },
+    {
+      "name": "Anole",
+      "id": 1011301,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c002e635ddd9.jpg"
+    },
+    {
+      "name": "Ant-Man (Eric O'Grady)",
+      "id": 1010802,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/53176aa9df48d.jpg"
+    },
+    {
+      "name": "Ant-Man (Hank Pym)",
+      "id": 1009155,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Ant-Man (Scott Lang)",
+      "id": 1010801,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/52696868356a0.jpg"
+    },
+    {
+      "name": "Anthem",
+      "id": 1011208,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Apocalypse",
+      "id": 1009156,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/e0/526166076a1d0.jpg"
+    },
+    {
+      "name": "Apocalypse (Ultimate)",
+      "id": 1011253,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Aqueduct",
+      "id": 1010866,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c0035b3630cd.jpg"
+    },
+    {
+      "name": "Arachne",
+      "id": 1010773,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/70/5269526591794.jpg"
+    },
+    {
+      "name": "Araña",
+      "id": 1017438,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Arcade",
+      "id": 1009158,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/a0/4c0042091ab69.jpg"
+    },
+    {
+      "name": "Arcana",
+      "id": 1010686,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Archangel",
+      "id": 1009159,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/03/526165ed93180.jpg"
+    },
+    {
+      "name": "Arclight",
+      "id": 1009160,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/f0/4c0042067fd8b.jpg"
+    },
+    {
+      "name": "Ares",
+      "id": 1010784,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/535ff3daea603.jpg"
+    },
+    {
+      "name": "Argent",
+      "id": 1011275,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Armadillo",
+      "id": 1011012,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/40/4c0032754da02.jpg"
+    },
+    {
+      "name": "Armor (Hisako Ichiki)",
+      "id": 1011298,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c002e6cbf990.jpg"
+    },
+    {
+      "name": "Armory",
+      "id": 1010827,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Arnim Zola",
+      "id": 1009740,
+      "description": "The frail, dwarfish Arnim Zola was born in 1930s Switzerland where he became the world's leading biochemist and genetic engineer.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c00393a4cb7c.jpg"
+    },
+    {
+      "name": "Arsenic",
+      "id": 1010748,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4c00359a2be7b.jpg"
+    },
+    {
+      "name": "Artiee",
+      "id": 1009161,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Asgardian",
+      "id": 1010718,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Askew-Tronics",
+      "id": 1009162,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Asylum",
+      "id": 1010835,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Atlas (Team)",
+      "id": 1010336,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Attuma",
+      "id": 1011758,
+      "description": "Attuma was born into the tribe of Homo mermanus who eschewed civilization to live as nomadic barbarians. For some unrecorded reason, Attuma was endowed with strength far surpassing that of his people.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/4ce5a862a6c48.jpg"
+    },
+    {
+      "name": "Aurora",
+      "id": 1009163,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4c004203f1072.jpg"
+    },
+    {
+      "name": "Avalanche",
+      "id": 1009164,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/10/4c0042010d383.jpg"
+    },
+    {
+      "name": "Avengers",
+      "id": 1009165,
+      "description": "Earth's Mightiest Heroes joined forces to take on threats that were too big for any one hero to tackle. With a roster that has included Captain America, Iron Man, Ant-Man, Hulk, Thor, Wasp and dozens more over the years, the Avengers have come to be regarded as Earth's No. 1 team.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5102c774ebae7.jpg"
+    },
+    {
+      "name": "Avengers (Ultimate)",
+      "id": 1015239,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Azazel (Mutant)",
+      "id": 1011766,
+      "description": "A mutant from biblical times, Azazel is the ruler of the Neyaphem and claims that the Earth and everything on it belongs to him.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Balder",
+      "id": 1011456,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/f0/4ce5a7c2814ba.gif"
+    },
+    {
+      "name": "Banshee",
+      "id": 1009168,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/03/52740e4619f54.jpg"
+    },
+    {
+      "name": "Banshee (Theresa Rourke)",
+      "id": 1009596,
+      "description": "The daughter of former X-Men member Sean Cassidy, a.k.a. Banshee, and Maeve Rourke, Theresa Rourke was raised by her first cousin once removed, mutant terrorist Thomas Cassidy, a.k.a. Black Tom.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/c0/4ce5a1a50e56b.jpg"
+    },
+    {
+      "name": "Baron Mordo (Karl Mordo)",
+      "id": 1011778,
+      "description": "Born in 1921, Karl Mordo was the son of Nikolai Mordo.  He vowed that, as the second Baron Mordo, he would achieve his father’s hopes and more.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/90/4ce5a86dba8a8.jpg"
+    },
+    {
+      "name": "Baron Strucker",
+      "id": 1009169,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/80/4c0041fb5a90d.jpg"
+    },
+    {
+      "name": "Baron Zemo (Heinrich Zemo)",
+      "id": 1009170,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/4c0041f84c9fe.jpg"
+    },
+    {
+      "name": "Baron Zemo (Helmut Zemo)",
+      "id": 1010906,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0035890fb0a.jpg"
+    },
+    {
+      "name": "Baroness S'Bak",
+      "id": 1011137,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Barracuda",
+      "id": 1011354,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Bart Rozum",
+      "id": 1009550,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Bastion",
+      "id": 1009171,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/80/52695253215f4.jpg"
+    },
+    {
+      "name": "Batroc the Leaper",
+      "id": 1009172,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/4ce59eb840da5.gif"
+    },
+    {
+      "name": "Battering Ram",
+      "id": 1009173,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/60/4c002e0305708.gif"
+    },
+    {
+      "name": "Battlestar",
+      "id": 1011785,
+      "description": "Lamar Hoskins was once a wrestler who was given superhuman strength by the Power Broker.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Beak",
+      "id": 1009174,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/90/4c0040b8329ad.jpg"
+    },
+    {
+      "name": "Man-Thing",
+      "id": 1009420,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/4ce5a043191dc.jpg"
+    },
+    {
+      "name": "Man-Wolf",
+      "id": 1010811,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/90/4c7c641e86d14.jpg"
+    },
+    {
+      "name": "Mandarin",
+      "id": 1009421,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/50/535feda892f68.jpg"
+    },
+    {
+      "name": "Mandrill",
+      "id": 1011243,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/4c002efee8164.jpg"
+    },
+    {
+      "name": "Mandroid",
+      "id": 1009422,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Spider-dok",
+      "id": 1010727,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Spider-Girl (Anya Corazon)",
+      "id": 1009157,
+      "description": " ",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/a/10/528d369de3e4f.jpg"
+    },
+    {
+      "name": "Spider-Girl (May Parker)",
+      "id": 1009609,
+      "description": "May \"Mayday\" Parker is the daughter of Spider-Man and Mary Jane Watson-Parker. Born with all her fatherï¿½s powers-and the same silly sense of humor-sheï¿½s grown up to become one of Earthï¿½s most trusted heroes and a fitting tribute to her proud papa.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/1/70/4c003adccbe4f.jpg"
+    },
+    {
+      "name": "Spider-Gwen (Gwen Stacy)",
+      "id": 1017603,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/90/54edf8eb8f102.jpg"
+    },
+    {
+      "name": "Spider-Ham (Larval Earth)",
+      "id": 1011347,
+      "description": "As Spider-Ham Peter faced such nefarious foes as Ductor Doom, Bull-Frog, Raven the Hunter, Hogzilla, the Buzzard and the King-Pig!",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Spider-Man (1602)",
+      "id": 1011054,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/03/5317713c9e746.jpg"
+    },
+    {
+      "name": "Spider-Man (2099)",
+      "id": 1014873,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/c0/520d1ad3e543f.jpg"
+    },
+    {
+      "name": "Spider-Man (Ai Apaec)",
+      "id": 1016452,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/4fce7a4d900f4.jpg"
+    },
+    {
+      "name": "Spider-Man (Ben Reilly)",
+      "id": 1014858,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/c0/5317717bed6fe.jpg"
+    },
+    {
+      "name": "Spider-Man (House of M)",
+      "id": 1012200,
+      "description": "In the House of M universe, surrounded by his family, including his young son Richard and close friends, Peter Parker is the envy of the world and its most popular mutant; but lately, Peter has felt like something is wrong in his world.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/60/5317718f0a2e7.jpg"
+    },
+    {
+      "name": "Spider-Man (LEGO Marvel Super Heroes)",
+      "id": 1017332,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/03/5239c4d095611.jpg"
+    },
+    {
+      "name": "Spider-Man (Marvel Zombies)",
+      "id": 1011114,
+      "description": "Zombie Spider-Man ate his own wife and aunt, the only two people left in the world who truly loved him.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/00/531772716d0ac.jpg"
+    },
+    {
+      "name": "Spider-Man (Marvel: Avengers Alliance)",
+      "id": 1017305,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/03/5239b59f49020.jpg"
+    },
+    {
+      "name": "Spider-Man (Miles Morales)",
+      "id": 1016181,
+      "description": "Teenager Miles Morales grew up in Brooklyn, New York. Recently, Miles took on the controversial and pressured role of Spider-Man shortly after the death of the original. Morales made his debut against The Kangaroo, much to the surprise and disapproval of many present at the confrontation.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/537bcfa1eed73.jpg"
+    },
+    {
+      "name": "Spider-Man (Noir)",
+      "id": 1012295,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/40/531771a14fcf6.jpg"
+    },
+    {
+      "name": "Spider-Man (Peter Parker)",
+      "id": 1009610,
+      "description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b.jpg"
+    },
+    {
+      "name": "Spider-Man (Takuya Yamashiro)",
+      "id": 1011377,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/4be86ad8ada17.jpg"
+    },
+    {
+      "name": "Spider-Man (Ultimate)",
+      "id": 1011010,
+      "description": "Peter’s relatively normal life changed abruptly during a school trip to Osborn Industries, Inc, where the company had been working on a super soldier serum, the Oz Compound; a spider exposed to it escaped and bit Peter before it was destroyed.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/531771b4e8c60.jpg"
+    },
+    {
+      "name": "Spider-Woman (Charlotte Witter)",
+      "id": 1010795,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/60/531771afe4ffa.jpg"
+    },
+    {
+      "name": "Spider-Woman (Jessica Drew)",
+      "id": 1009608,
+      "description": "When young Jessica Drew suffered uranium poisoning in 1931, her father was forced to inject her with his untested spider serum and seal her in a genetic accelerator.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/50/5265479097743.jpg"
+    },
+    {
+      "name": "Spider-Woman (Mattie Franklin)",
+      "id": 1010794,
+      "description": "Mattie Franklin was granted her powers when, after overhearing a phone call between her father and Norman Osborn about the Gathering of the Five, she took her father's place during the Gathering and was endowed with the awesome powers that Norman Osborn had wanted for himself.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/30/531771c2ab020.jpg"
+    },
+    {
+      "name": "Amadeus Cho",
+      "id": 1011227,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/520288b9cb581.jpg"
+    },
+    {
+      "name": "Avengers",
+      "id": 1009165,
+      "description": "Earth's Mightiest Heroes joined forces to take on threats that were too big for any one hero to tackle. With a roster that has included Captain America, Iron Man, Ant-Man, Hulk, Thor, Wasp and dozens more over the years, the Avengers have come to be regarded as Earth's No. 1 team.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/20/5102c774ebae7.jpg"
+    },
+    {
+      "name": "Beast",
+      "id": 1009175,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/2/80/511a79a0451a3.jpg"
+    },
+    {
+      "name": "Captain America",
+      "id": 1009220,
+      "description": "Vowing to serve his country any way he could, young Steve Rogers took the super soldier serum to become America's one-man army. Fighting for the red, white and blue for over 60 years, Captain America is the living, breathing symbol of freedom and liberty.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/537ba56d31087.jpg"
+    },
+    {
+      "name": "Captain America (Sam Wilson)",
+      "id": 1017575,
+      "description": "<p class=\"Body\">Sam Wilson, a Harlem native, previously operated under the name Falcon, fighting alongside the Avengers. When his longtime friend Steve Rogers stepped down as Captain America, Wilson was hand-picked to fill the role. Now the former Falcon soars through the skies wearing red, white and blue.</p>",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/c/80/545a84a75ddaf.jpg"
+    },
+    {
+      "name": "Champions",
+      "id": 1010756,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/b0/4c00376da82bb.jpg"
+    },
+    {
+      "name": "Deadpool",
+      "id": 1009268,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/90/5261a86cacb99.jpg"
+    },
+    {
+      "name": "Doctor Octopus",
+      "id": 1009276,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/b0/528d31b62eaba.jpg"
+    },
+    {
+      "name": "Edwin Jarvis",
+      "id": 1011072,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4c0030e231f6b.jpg"
+    },
+    {
+      "name": "Frightful Four",
+      "id": 1010799,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/8/a0/4c00372aafb39.jpg"
+    },
+    {
+      "name": "Grandmaster",
+      "id": 1011076,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/10/4c0030dc410d6.jpg"
+    },
+    {
+      "name": "Hawkeye",
+      "id": 1009338,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/90/50fecaf4f101b.jpg"
+    },
+    {
+      "name": "Hercules",
+      "id": 1009343,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/d0/52052ebddfa53.jpg"
+    },
+    {
+      "name": "High Evolutionary",
+      "id": 1011300,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/f0/5269583a77bd3.jpg"
+    },
+    {
+      "name": "Hulk",
+      "id": 1009351,
+      "description": "Caught in a gamma bomb explosion while trying to save the life of a teenager, Dr. Bruce Banner was transformed into the incredibly powerful creature called the Hulk. An all too often misunderstood hero, the angrier the Hulk gets, the stronger the Hulk gets.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/538615ca33ab0.jpg"
+    },
+    {
+      "name": "Kang",
+      "id": 1009384,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/30/52695ed19538d.jpg"
+    },
+    {
+      "name": "Lethal Legion",
+      "id": 1011421,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/50/4c002e13dd271.jpg"
+    },
+    {
+      "name": "Ms. Marvel (Kamala Khan)",
+      "id": 1017577,
+      "description": "A Muslim-American teenager growing up in Jersey City, Kamala Khan gained shape-shifting powers when Inhumanity spread over the Earth. A fan of super heroes, in particular Carol Danvers, Kamala took up Captain Marvel's former identity, becoming the new Ms. Marvel. This up and coming hero works to protect her community and understand her place in the world.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/548730dac2a40.jpg"
+    },
+    {
+      "name": "Nova (Sam Alexander)",
+      "id": 1017078,
+      "description": "Sam Alexander inherited the role of Nova from his father, who went missing mysteriously. The new Human Rocket struggles to become a hero while searching for his dad.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/e/20/5269615681f91.jpg"
+    },
+    {
+      "name": "Quicksilver",
+      "id": 1009524,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/f0/53176ffc42f58.jpg"
+    },
+    {
+      "name": "Red Wolf",
+      "id": 1010837,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Scarlet Witch",
+      "id": 1009562,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/70/5261a7d7c394b.jpg"
+    },
+    {
+      "name": "Spider-Man (Miles Morales)",
+      "id": 1016181,
+      "description": "Teenager Miles Morales grew up in Brooklyn, New York. Recently, Miles took on the controversial and pressured role of Spider-Man shortly after the death of the original. Morales made his debut against The Kangaroo, much to the surprise and disapproval of many present at the confrontation.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/f/50/537bcfa1eed73.jpg"
+    },
+    {
+      "name": "Spider-Man (Peter Parker)",
+      "id": 1009610,
+      "description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b.jpg"
+    },
+    {
+      "name": "Taskmaster",
+      "id": 1009648,
+      "description": "Taskmaster first exhibited his unusual ability, called \"photographic reflexes,\" which allowed him to mimic the motion of anyone he saw, when he was a young boy.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/6/c0/526957dc0c27f.jpg"
+    },
+    {
+      "name": "Thor",
+      "id": 1009664,
+      "description": "As the Norse God of thunder and lightning, Thor wields one of the greatest weapons ever made, the enchanted hammer Mjolnir. While others have described Thor as an over-muscled, oafish imbecile, he's quite smart and compassionate.  He's self-assured, and he would never, ever stop fighting for a worthwhile cause.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/d/d0/5269657a74350.jpg"
+    },
+    {
+      "name": "Thor (Goddess of Thunder)",
+      "id": 1017576,
+      "description": "<p class=\"Body\">When the Odinson lost his ability to wield Mjolnir, the role of Thor, God of Thunder, was left unoccupied&hellip;albeit for a short time. A mysterious female figure picked up the hammer with ease, changing the inscription to fit her status as the Goddess of Thunder.</p>",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/4/10/545a857a38f92.jpg"
+    },
+    {
+      "name": "Victor Von Doom",
+      "id": 1010324,
+      "description": "",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available.jpg"
+    },
+    {
+      "name": "Vision",
+      "id": 1009697,
+      "description": "The metal monstrosity called Ultron created the synthetic humanoid known as the Vision from the remains of the original android Human Torch of the 1940s to serve as a vehicle of vengeance against the Avengers.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/5111527040594.jpg"
+    },
+    {
+      "name": "Wonder Man",
+      "id": 1009719,
+      "description": "Simon Williams agreed to undergo an experiment to give him superhuman powers, and Baron Zemo gave him the costumed guise of Wonder Man, warning Simon that he would die without further treatments from Zemo in order to ensure his loyalty, but Simon betrayed Zemo to the Avengers and ultimately joined their ranks.",
+      "image": "http://i.annihil.us/u/prod/marvel/i/mg/5/40/4ce5a205a2322.jpg"
+    }
+  ]
+}

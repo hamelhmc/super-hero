@@ -1,0 +1,41 @@
+mat-sidenav {
+  width: clamp(9.375rem, 7.102rem + 11.36vw, 15.625rem);
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-block-size: 100%;
+}
+
+.toolbar-container {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.toolbar-container__title {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.sidenav-container {
+  flex: 1 0 auto;
+}
+
+.sidenav-content {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space);
+  margin-inline: auto;
+  padding-inline: 1rem;
+  min-height: calc(100vh - 64px);
+}
+
+.mat-list-item-active {
+  background-color: #f0f0f0;
+  color: #333;
+  font-weight: bold;
+}
